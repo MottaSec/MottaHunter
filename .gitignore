@@ -52,6 +52,7 @@ test-output
 *.log
 .coverage
 htmlcov/
+logo1.png
 
 # Sensitive data
 .env
