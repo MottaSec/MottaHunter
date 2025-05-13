@@ -1,7 +1,7 @@
 # 🦊 MottaHunter: Email Reconnaissance Tool
 
 <p align="center">
-  <img src="logo.png" alt="MottaHunter Logo" width="400">
+  <img src="images/logo.png" alt="MottaHunter Logo" width="400">
 </p>
 
 **MottaHunter** is a powerful email reconnaissance and validation tool developed by the MottaSec team for internal use. We're sharing it with the community because we believe in making security tools accessible to everyone.
